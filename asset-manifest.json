@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7d7c67d7.chunk.css",
-    "main.js": "/Portfolio/static/js/main.d1c26673.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.d1c26673.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.ab700a80.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ab700a80.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.17aa1b2c.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.17aa1b2c.js.map",
     "static/js/2.bb410767.chunk.js": "/Portfolio/static/js/2.bb410767.chunk.js",
@@ -35,7 +35,7 @@
     "static/media/mongodb.d89a6eeb.svg": "/Portfolio/static/media/mongodb.d89a6eeb.svg",
     "static/media/portfolio.e7a093d4.webp": "/Portfolio/static/media/portfolio.e7a093d4.webp",
     "static/media/postgresql.ae92b576.svg": "/Portfolio/static/media/postgresql.ae92b576.svg",
-    "static/media/profile2.c7ade208.png": "/Portfolio/static/media/profile2.c7ade208.png",
+    "static/media/profile3.23f39d89.png": "/Portfolio/static/media/profile3.23f39d89.png",
     "static/media/python.e6d7dc73.svg": "/Portfolio/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.534ba574.svg": "/Portfolio/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-context.daae3e09.png": "/Portfolio/static/media/react-context.daae3e09.png",
@@ -54,6 +54,6 @@
     "static/js/runtime-main.17aa1b2c.js",
     "static/js/2.bb410767.chunk.js",
     "static/css/main.7d7c67d7.chunk.css",
-    "static/js/main.d1c26673.chunk.js"
+    "static/js/main.ab700a80.chunk.js"
   ]
 }
