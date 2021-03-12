@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7d7c67d7.chunk.css",
-    "main.js": "/Portfolio/static/js/main.48171da7.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.48171da7.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.457772d1.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.457772d1.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.17aa1b2c.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.17aa1b2c.js.map",
-    "static/js/2.ae114bc1.chunk.js": "/Portfolio/static/js/2.ae114bc1.chunk.js",
-    "static/js/2.ae114bc1.chunk.js.map": "/Portfolio/static/js/2.ae114bc1.chunk.js.map",
+    "static/js/2.bb410767.chunk.js": "/Portfolio/static/js/2.bb410767.chunk.js",
+    "static/js/2.bb410767.chunk.js.map": "/Portfolio/static/js/2.bb410767.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/main.7d7c67d7.chunk.css.map": "/Portfolio/static/css/main.7d7c67d7.chunk.css.map",
-    "static/js/2.ae114bc1.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ae114bc1.chunk.js.LICENSE.txt",
+    "static/js/2.bb410767.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bb410767.chunk.js.LICENSE.txt",
     "static/media/background.webp": "/Portfolio/static/media/background.f6814621.webp",
     "static/media/bookshop.8400258b.webp": "/Portfolio/static/media/bookshop.8400258b.webp",
     "static/media/bootstrap-4.997c463d.svg": "/Portfolio/static/media/bootstrap-4.997c463d.svg",
@@ -35,7 +35,7 @@
     "static/media/mongodb.d89a6eeb.svg": "/Portfolio/static/media/mongodb.d89a6eeb.svg",
     "static/media/portfolio.e7a093d4.webp": "/Portfolio/static/media/portfolio.e7a093d4.webp",
     "static/media/postgresql.ae92b576.svg": "/Portfolio/static/media/postgresql.ae92b576.svg",
-    "static/media/profile.2a708a80.webp": "/Portfolio/static/media/profile.2a708a80.webp",
+    "static/media/profile2.c7ade208.webp": "/Portfolio/static/media/profile2.c7ade208.webp",
     "static/media/python.e6d7dc73.svg": "/Portfolio/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.534ba574.svg": "/Portfolio/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-context.daae3e09.png": "/Portfolio/static/media/react-context.daae3e09.png",
@@ -52,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.17aa1b2c.js",
-    "static/js/2.ae114bc1.chunk.js",
+    "static/js/2.bb410767.chunk.js",
     "static/css/main.7d7c67d7.chunk.css",
-    "static/js/main.48171da7.chunk.js"
+    "static/js/main.457772d1.chunk.js"
   ]
 }
