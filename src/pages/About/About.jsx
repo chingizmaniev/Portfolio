@@ -3,7 +3,7 @@ import './About.css';
 import { Col, Container, Image, Row } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 
-import Profile from "../../assets/img/profile/profile3.png";
+import Profile from "../../assets/img/profile/profile.jpg";
 
 
 const About = () => {
@@ -16,7 +16,7 @@ const About = () => {
                         {/* profile pic */}
                         <Col xs={12} md={6}>
                             <Row className="justify-content-center mb-2 mr-2">
-                                {/* <Image className="profile justify-content-end" alt="profile" src={Profile} thumbnail fluid /> */}
+                                <Image className="profile justify-content-end" alt="profile" src={Profile} thumbnail fluid />
                             </Row>
                         </Col>
                         {/* about me description */}
