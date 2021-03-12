@@ -4,7 +4,7 @@
   "repository": "https://github.com/chingizmaniev/Contact-Book.git",
   "author": "Cobbmanu <cmaniev@gmail.com>",
   "license": "MIT",
-  "homepage": "https://chingizmaniev.github.io/Contact-Book/",
+  "homepage": "https://chingizmaniev.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
@@ -29,8 +29,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
