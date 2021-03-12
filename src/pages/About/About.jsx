@@ -3,7 +3,7 @@ import './About.css';
 import { Col, Container, Image, Row } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 
-import Profile from "../../assets/img/profile/profile2.webp";
+import Profile from "../../assets/img/profile/profile2.png";
 
 
 const About = () => {
