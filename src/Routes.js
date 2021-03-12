@@ -31,9 +31,9 @@ const Routes = () => {
                         strength={-200}
                     >
                         <Container className="container-box rounded">
-                            <Roll left>
+                            <Fade duration={500}>
                                 <About />
-                            </Roll>
+                            </Fade>
                         </Container>
                     </Parallax>
                 </div>
