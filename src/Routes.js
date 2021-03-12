@@ -28,6 +28,7 @@ const Routes = () => {
                     <Parallax
                         blur={{ min: -1000, max: 1000 }}
                         bgImage={require("./assets/img/parallex/background.webp")}
+                        strength={-200}
                     >
                         <Container className="container-box rounded">
                             <Roll left>
