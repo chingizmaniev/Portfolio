@@ -1,0 +1,27 @@
+.about {
+  background-color: white;
+  font-size: 1.1em;
+  margin-top: -24px;
+}
+
+.pt-3 {
+  margin-top: 25px;
+}
+
+.text {
+  margin-left: 20px;
+}
+
+.profile {
+  max-width: 30em;
+}
+
+/* .my-details {
+  background-color: rgba(255, 255, 255, 0.747);
+} */
+
+.font-details {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}

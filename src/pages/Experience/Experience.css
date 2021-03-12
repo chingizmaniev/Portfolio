@@ -1,0 +1,25 @@
+/* .img-resize {
+  width: 10em;
+} */
+
+.style {
+  font-size: 20px;
+}
+
+.jumbo-style {
+  background-color: #9c55ae;
+}
+
+/* .jumbo-style {
+  background-image: linear-gradient(
+    -225deg,
+    #feac5e 0%,
+    #c779d0 48%,
+    #4bc0c8 100%
+  );
+} */
+
+.body-title-style {
+  font-size: 25px;
+  font-weight: 800;
+}
