@@ -142,12 +142,12 @@ export const skills = {
         },
     ],
     databases: [
-        {
-            link: "https://firebase.google.com/",
-            imgAltText: "Firebase",
-            imgSrc: L_FIREBASE,
-            skillName: "Firebase",
-        },
+        // {
+        //     link: "https://firebase.google.com/",
+        //     imgAltText: "Firebase",
+        //     imgSrc: L_FIREBASE,
+        //     skillName: "Firebase",
+        // },
         {
             link: "https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development",
             imgAltText: "JSON",

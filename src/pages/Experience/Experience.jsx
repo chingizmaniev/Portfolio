@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import RESUME from "../../assets/img/experience/resume.png";
+import RESUME from "../../assets/img/experience/resume1.png";
 import Tilt from "react-tilt";
 import "./Experience.css";
 

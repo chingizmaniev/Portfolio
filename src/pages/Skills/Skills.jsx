@@ -89,7 +89,7 @@ const Skills = () => {
                         <Col md={4}>
                             <Card className="focus mt-2 mb-2">
                                 <Card.Body>
-                                    <Card.Title className="text-center  card-title">Database</Card.Title>
+                                    <Card.Title className="text-center  card-title">Server</Card.Title>
                                     <hr />
                                     <Card.Text className="card-text d-flex justify-content-start flex-column">
                                         {skills.databases.map((skill, index) => (
